@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SingIn_SignOut_demo</string>
+    <string name="no_account_yet_sing_up">No account yet?   SING UP</string>
+</resources>
